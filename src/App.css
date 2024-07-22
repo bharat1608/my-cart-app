@@ -1,0 +1,28 @@
+.cart-page {
+  padding: 20px;
+}
+
+.cart-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.cart-table th, .cart-table td {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+
+.cart-table img {
+  max-width: 100px;
+  height: auto;
+}
+
+.cart-summary {
+  margin-top: 20px;
+}
+
+button {
+  margin: 0 5px;
+}
+
